@@ -20,6 +20,7 @@ If we take new then JVM get activated.
 
 Different ways to compare strings.
 
+
 1. using an operator (==), Strings are compared based on reference.
 
 2. Using equals() method, Strings are compared based on values.
